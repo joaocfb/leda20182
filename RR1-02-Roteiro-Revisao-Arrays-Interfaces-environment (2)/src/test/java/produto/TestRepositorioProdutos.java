@@ -25,21 +25,21 @@ public class TestRepositorioProdutos {
 	}
 
 	@Test
-	public void testAtualizar() {
+	public void testAtualizar() throws Exception {
 		repositorio.inserir(new Produto(5,"Feijao",10.0,"Feijão carioca"));
 		repositorio.atualizar(new Produto(5,"Feijao",10.0,"Feijão macassar"));
 		assertEquals("Feijão macassar",repositorio.procurar(5).getDescricao());
 	}
 
 	@Test
-	public void testRemover() {
+	public void testRemover() throws Exception {
 		repositorio.inserir(new Produto(5,"Feijao",10.0,"Feijão carioca"));
 		repositorio.remover(5);
 		assertFalse(repositorio.existe(5));
 	}
 
 	@Test
-	public void testProcurar() {
+	public void testProcurar() throws Exception {
 		assertNull(repositorio.procurar(5));
 		repositorio.inserir(new Produto(5,"Feijao",10.0,"Feijão carioca"));
 		assertNotNull(repositorio.procurar(5));		

@@ -17,7 +17,7 @@ public class RepositorioProdutoArrayList {
 	 * A estrutura onde os produtos sao mantidos. Voce nao precisa se preocupar
 	 * por enquanto com o uso de generics em ArrayList.
 	 */
-	private ArrayList produtos;
+	private ArrayList<Produto> produtos;
 
 	/**
 	 * A posicao do ultimo elemento inserido no array de produtos. o valor
@@ -40,8 +40,13 @@ public class RepositorioProdutoArrayList {
 	 * @return
 	 */
 	private int procurarIndice(int codigo) {
-		// TODO Implement your code here
-		throw new UnsupportedOperationException("Not implemented yet!");
+		int indice = 0;
+		for (Produto produto : produtos) {
+			if (produto.getCodigo() == codigo) {
+				return indice;
+			} else indice++;
+		}
+		return -1;
 	}
 
 	/**
@@ -51,26 +56,32 @@ public class RepositorioProdutoArrayList {
 	 * @return
 	 */
 	public boolean existe(int codigo) {
-		// TODO Implement your code here
-		throw new UnsupportedOperationException("Not implemented yet!");
+		if (this.procurarIndice(codigo) != -1) {
+			return true;
+		} else return false;
 	}
 
 	/**
 	 * Insere um novo produto (sem se preocupar com duplicatas)
 	 */
 	public void inserir(Produto produto) {
-		// TODO Implement your code here
-		throw new UnsupportedOperationException("Not implemented yet!");
+		produtos.add(produto);
 	}
 
 	/**
 	 * Atualiza um produto armazenado ou retorna um erro caso o produto nao
 	 * esteja no array. Note que, para localizacao, o código do produto será
 	 * utilizado.
+	 * @throws Exception 
 	 */
-	public void atualizar(Produto produto) {
-		// TODO Implement your code here
-		throw new UnsupportedOperationException("Not implemented yet!");
+	public void atualizar(Produto produto) throws Exception {
+		int indice = this.procurarIndice(produto.getCodigo());
+		if (indice == -1) {
+			throw new RuntimeException();
+		} else {
+			this.produtos.add(indice, produto);
+			this.produtos.remove(indice + 1);
+		}
 	}
 
 	/**
@@ -79,10 +90,15 @@ public class RepositorioProdutoArrayList {
 	 * array.
 	 * 
 	 * @param codigo
+	 * @throws Exception 
 	 */
-	public void remover(int codigo) {
-		// TODO Implement your code here
-		throw new UnsupportedOperationException("Not implemented yet!");
+	public void remover(int codigo) throws Exception {
+		int indice = this.procurarIndice(codigo);
+		if (indice == -1) {
+			throw new RuntimeException();
+		} else {
+		this.produtos.remove(indice);
+		}
 	}
 
 	/**
@@ -91,9 +107,14 @@ public class RepositorioProdutoArrayList {
 	 * 
 	 * @param codigo
 	 * @return
+	 * @throws Exception 
 	 */
-	public Produto procurar(int codigo) {
-		// TODO Implement your code here
-		throw new UnsupportedOperationException("Not implemented yet!");
+	public Produto procurar(int codigo) throws Exception {
+		int indice = this.procurarIndice(codigo);
+		if (indice == -1) {
+			throw new RuntimeException();
+		} else {
+			return this.produtos.get(indice);
+		}
 	}
 }
