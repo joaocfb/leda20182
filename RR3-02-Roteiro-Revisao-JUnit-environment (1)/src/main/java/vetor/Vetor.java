@@ -27,7 +27,7 @@ public class Vetor {
 	public Vetor(int tamanho) {
 		super();
 		this.tamanho = tamanho;
-		this.indice = 0;
+		this.indice = -1;
 	}
 
 	public void setComparadorMaximo(Comparator comparadorMaximo) {
@@ -40,27 +40,48 @@ public class Vetor {
 
 	// Insere um objeto no vetor
 	public void inserir(Object o) {
-
+		this.arrayInterno[this.indice++] = o;
 	}
 
 	// Remove um objeto do vetor
-	public Object remover() {
-		return null;
+	public Object remover(Object o) {
+		boolean found = false;
+		int i = 0;
+		while (!found || i < this.tamanho - 1) {
+			if (this.arrayInterno[i].equals(o)) {
+				this.arrayInterno[i] = this.arrayInterno[this.indice--];
+				this.arrayInterno[this.indice] = null;
+				found = true;
+			} else {
+				i++;
+			}
+		}
+		return found;
 	}
 
 	// Procura um elemento no vetor
 	public Object procurar(Object o) {
-		return null;
+		Object objToReturn = null;
+		for (Object object : arrayInterno) {
+			if (object.equals(o)) {
+				objToReturn = object;
+			}
+		}
+		return objToReturn;
 	}
 
 	// Diz se o vetor está vazio
 	public boolean isVazio() {
-		return false;
+		if (this.indice == -1) {
+			return true;
+		} else return false;
 	}
 
 	// Diz se o vetor está cheio
 	public boolean isCheio() {
-		return false;
+		if (this.indice == this.tamanho - 1) {
+			return true;
+		} else return false;
 	}
 
 }
