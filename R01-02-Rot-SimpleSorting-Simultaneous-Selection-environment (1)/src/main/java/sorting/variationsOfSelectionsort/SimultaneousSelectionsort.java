@@ -13,8 +13,30 @@ import sorting.AbstractSorting;
  */
 public class SimultaneousSelectionsort<T extends Comparable<T>> extends
 		AbstractSorting<T> {
+	
 	public void sort(T[] array, int leftIndex, int rightIndex) {
-		// TODO Auto-generated method stub
-		throw new UnsupportedOperationException("Not implemented yet!");
+		int menorInd = 0;
+		int maiorInd = rightIndex;
+		int auxMaior = rightIndex;
+		
+		for (int i = 0; i <= rightIndex; i++) {
+			menorInd = i;
+			
+			for (int j = i + 1; j <= rightIndex; j++) {
+				if (array[j].compareTo(array[menorInd]) ==  -1) {
+					menorInd = j;
+				}
+			}
+			util.Util.swap(array, i, menorInd);
+			
+			for (int k = i; k <= maiorInd; k++) {
+				if (array[k].compareTo(array[auxMaior]) == 1) {
+					auxMaior = k;
+				}
+			}
+			util.Util.swap(array, auxMaior, maiorInd);
+			maiorInd--;
+			
+		}
 	}
 }

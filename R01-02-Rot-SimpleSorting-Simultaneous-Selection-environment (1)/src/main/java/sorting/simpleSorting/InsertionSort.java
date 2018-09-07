@@ -10,9 +10,14 @@ import sorting.AbstractSorting;
  */
 public class InsertionSort<T extends Comparable<T>> extends AbstractSorting<T> {
 
-	@Override
-	public void sort(T[] array, int leftIndex, int rightIndex) {
-		// TODO Auto-generated method stub
-		throw new UnsupportedOperationException("Not Implemented yet!");
-	}
+   @Override
+   public void sort(T[] array, int leftIndex, int rightIndex) {
+      for (int i = leftIndex + 1; i <= rightIndex; i++) {
+         for (int j = i; j > 0; j--) {
+            if (array[j].compareTo(array[j - 1]) == -1) {
+               util.Util.swap(array, j, j - 1);
+            }
+         }
+      }
+   }
 }
