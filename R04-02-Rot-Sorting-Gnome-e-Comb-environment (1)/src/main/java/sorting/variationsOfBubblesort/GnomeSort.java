@@ -12,17 +12,16 @@ public class GnomeSort<T extends Comparable<T>> extends AbstractSorting<T> {
 	}
 	
 	private void gnomeSort(T[] array, int leftIndex, int rightIndex) {
-		int pivot = leftIndex + 1;
+		int pivot = 0;
 		
 		while(pivot <= rightIndex) {
-			if (array[pivot].compareTo(array[pivot + 1]) <= 0 ) {
+			if (pivot == 0) pivot++;
+			if (array[pivot].compareTo(array[pivot - 1]) >= 0 ) {
 				pivot++;
 			} else {
-				util.Util.swap(array, pivot, pivot + 1);
+				util.Util.swap(array, pivot, pivot - 1);
 				pivot --;
 			}
-			
-			if (pivot == 0) pivot++;
 			
 		}
 		
