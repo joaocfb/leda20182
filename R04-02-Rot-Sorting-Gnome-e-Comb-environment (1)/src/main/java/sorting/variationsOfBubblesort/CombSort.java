@@ -8,19 +8,27 @@ import sorting.AbstractSorting;
 public class CombSort<T extends Comparable<T>> extends AbstractSorting<T> {
 	@Override
 	public void sort(T[] array, int leftIndex, int rightIndex) {
-		
+		combSort(array);
 	}
 	
 	private void combSort(T[] array) {
-		double fator = 1.25;
-		int gap = (int) (array.length/fator);
-		int i = 0;
-		while(i < array.length - 1) {
-			while(i + gap < array.length - 1) {
-				if (array[i].compareTo(array[i + gap]) > 0) {
-					util.Util.swap(array, i, i + gap);
-				}
-			}
-		}
+		int gap = array.length;
+	    double fator = 1.25;
+	    boolean troca = true;
+	    int i;
+	    while (gap != 1 || troca) {
+	    	gap = (int) (gap / fator);
+	        if (gap < 1)
+	        	gap = 1;
+	        i = 0;
+	        troca = false;
+	        while (i + gap < array.length) {
+	        	if (array[ i ].compareTo(array[ i + gap ]) > 0) {
+	        		util.Util.swap(array, i, i + gap);
+	                	troca = true;
+	               }
+	               i++;
+	          	}
+	     	}
+	     }
 	}
-}
