@@ -1,0 +1,71 @@
+package adt.heap.extended;
+
+import java.util.PriorityQueue;
+
+
+/**
+ * A classe HeapSumImpl herda de PriorityQueue, que funciona como uma min heap.
+ * 
+ * @author adalbertocajueiro
+ *
+ */
+public class HeapSumImpl extends PriorityQueue<Integer> implements HeapSum {
+
+	@Override
+	public Integer sumRangeOrderStatistics(Integer k1, Integer k2) {
+		
+		int soma = 0;
+		
+		while (peek().compareTo(k1) != 0) {
+			poll();
+		}
+		
+		for (int i = k1; i < k2; i++) {
+			soma += poll();
+		}
+		
+		return soma;
+	}
+
+	@Override
+	public Integer sumRangeBetween(Integer v1, Integer v2) {
+		
+		int soma = 0;
+		
+		while(peek() != null) {
+			int value = poll();
+			
+			if (value >= v1 && value <= v2) {
+				soma += value;
+			}
+		
+		}
+		
+		return soma;
+	}
+
+	@Override
+	public Integer sumRangeAtLevel(int level) {
+		
+		Object[] queueArray = toArray();
+		int soma = 0;
+		
+		if (level == 0) {
+			soma += (int) queueArray[level];
+		} else if (level == 1) {
+			soma += (int) queueArray[level];
+			soma += (int) queueArray[level +1];
+		} else if (level == 2) {
+			for (int i = level + 1; i < (level * 2) + level ; i++) {
+				soma += (int) queueArray[i];
+			}
+		} else {
+			for (int i = (level * 2) + 1; i < queueArray.length; i++) {
+				soma += (int) queueArray[i];
+			}
+		}
+		
+		return soma;
+	}
+
+}

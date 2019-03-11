@@ -1,0 +1,51 @@
+2018-11-29 14:11:39,925 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-29 14:12:15,968 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/pom.xml.
+2018-11-29 14:12:17,184 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /submission/src/main/java
+2018-11-29 14:12:17,186 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /submission/src/test/java
+2018-11-29 14:12:18,280 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2018-11-29 14:12:19,166 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 14:12:19,186 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/main/resources
+2018-11-29 14:12:19,190 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 14:12:19,192 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/test/resources
+2018-11-29 14:24:13,255 [Worker-18: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/pom.xml.
+2018-11-29 14:24:13,795 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 14:24:13,799 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/main/resources
+2018-11-29 14:24:13,802 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 14:24:13,804 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/test/resources
+2018-11-29 14:24:17,087 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-11-29 14:24:27,689 [Worker-20: Launching PP3-02-Prova-HeapSum-environment] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment
+2018-11-29 14:24:27,690 [Worker-20: Launching PP3-02-Prova-HeapSum-environment] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests install
+2018-11-29 14:35:53,407 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 14:35:53,410 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/main/resources
+2018-11-29 14:35:53,412 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 14:35:53,439 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/test/resources
+2018-11-29 14:35:54,951 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 14:35:54,954 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/main/resources
+2018-11-29 14:35:54,960 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 14:35:54,963 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/test/resources
+2018-11-29 14:45:47,626 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 14:45:47,628 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/main/resources
+2018-11-29 14:45:47,631 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 14:45:47,633 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/test/resources
+2018-11-29 14:46:08,903 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 14:46:08,905 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/main/resources
+2018-11-29 14:46:08,907 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 14:46:08,909 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/test/resources
+2018-11-29 15:11:29,074 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 15:11:29,077 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/main/resources
+2018-11-29 15:11:29,079 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 15:11:29,081 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/test/resources
+2018-11-29 15:20:31,585 [Worker-41: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 15:20:31,588 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/main/resources
+2018-11-29 15:20:31,594 [Worker-41: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 15:20:31,597 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/test/resources
+2018-11-29 15:21:28,414 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-11-29 15:21:34,266 [Worker-30: Launching PP3-02-Prova-HeapSum-environment (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment
+2018-11-29 15:21:34,266 [Worker-30: Launching PP3-02-Prova-HeapSum-environment (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests install
+2018-11-29 15:28:40,555 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 15:28:40,558 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/main/resources
+2018-11-29 15:28:40,564 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-29 15:28:40,566 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment/src/test/resources
+2018-11-29 15:28:49,150 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-11-29 15:28:55,020 [Worker-43: Launching PP3-02-Prova-HeapSum-environment (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/joaocfb/Downloads/prova3/PP3-02-Prova-HeapSum-environment
+2018-11-29 15:28:55,021 [Worker-43: Launching PP3-02-Prova-HeapSum-environment (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests install

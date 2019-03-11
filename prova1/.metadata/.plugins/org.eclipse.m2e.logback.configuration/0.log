@@ -1,0 +1,378 @@
+2017-11-13 14:02:48,883 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/pom.xml.
+2017-11-13 14:02:52,058 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/java
+2017-11-13 14:02:52,061 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/java
+2017-11-13 14:02:53,525 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2017-11-13 14:02:55,571 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:02:55,576 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 14:02:55,584 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:02:55,587 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 14:04:25,663 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/pom.xml.
+2017-11-13 14:04:26,206 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:04:26,208 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 14:04:26,214 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:04:26,216 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 14:04:29,995 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-11-13 14:04:37,368 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment
+2017-11-13 14:04:37,369 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests install
+2017-11-13 14:19:34,679 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:19:34,681 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 14:19:34,685 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:19:34,687 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 14:19:35,715 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:19:35,720 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 14:19:35,725 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:19:35,727 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 14:27:11,900 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-11-13 14:27:18,430 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment
+2017-11-13 14:27:18,433 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests install
+2017-11-13 14:33:24,649 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:33:24,653 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 14:33:24,656 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:33:24,658 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 14:34:58,886 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:34:58,889 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 14:34:58,891 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:34:58,893 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 14:45:46,434 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:45:46,436 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 14:45:46,438 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:45:46,442 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 14:46:15,634 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-11-13 14:46:21,316 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment
+2017-11-13 14:46:21,316 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests install
+2017-11-13 14:48:19,739 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:48:19,741 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 14:48:19,744 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:48:19,746 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 14:52:07,306 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:52:07,308 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 14:52:07,315 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:52:07,318 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 14:56:19,640 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:56:19,643 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 14:56:19,646 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:56:19,648 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 14:56:56,081 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:56:56,082 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 14:56:56,086 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:56:56,088 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 14:57:06,768 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:57:06,770 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 14:57:06,775 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:57:06,777 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 14:58:02,820 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:58:02,823 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 14:58:02,826 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 14:58:02,828 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:01:53,088 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:01:53,090 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:01:53,094 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:01:53,096 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:02:52,112 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:02:52,115 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:02:52,117 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:02:52,119 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:03:13,009 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:03:13,011 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:03:13,015 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:03:13,017 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:03:39,028 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:03:39,030 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:03:39,035 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:03:39,038 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:06:31,959 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:06:31,962 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:06:31,967 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:06:31,969 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:08:04,593 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:08:04,595 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:08:04,597 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:08:04,601 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:08:09,331 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:08:09,334 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:08:09,336 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:08:09,338 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:10:04,980 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:10:04,983 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:10:04,986 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:10:04,989 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:11:18,143 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:11:18,145 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:11:18,147 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:11:18,149 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:11:56,596 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:11:56,598 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:11:56,600 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:11:56,603 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:14:05,947 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:14:05,950 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:14:05,956 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:14:05,958 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:14:18,270 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:14:18,272 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:14:18,275 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:14:18,277 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:15:12,749 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:15:12,751 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:15:12,754 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:15:12,755 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:17:00,741 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:17:00,744 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:17:00,746 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:17:00,748 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:18:45,682 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:18:45,684 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:18:45,686 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:18:45,689 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:19:22,856 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:19:22,858 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:19:22,860 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:19:22,862 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:19:52,834 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:19:52,836 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:19:52,838 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:19:52,841 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:20:44,695 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:20:44,697 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:20:44,698 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:20:44,700 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:20:55,530 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:20:55,532 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:20:55,535 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:20:55,537 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:21:32,035 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:21:32,038 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:21:32,040 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:21:32,042 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:21:40,325 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:21:40,327 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:21:40,328 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:21:40,331 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:21:59,045 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:21:59,048 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:21:59,050 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:21:59,052 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:22:44,301 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:22:44,302 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:22:44,304 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:22:44,306 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:23:19,718 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:23:19,720 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:23:19,722 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:23:19,723 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:24:06,104 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:24:06,106 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:24:06,108 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:24:06,110 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:25:07,036 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:25:07,038 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:25:07,041 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:25:07,044 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:25:12,709 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:25:12,712 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:25:12,714 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:25:12,716 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:25:20,439 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:25:20,441 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:25:20,443 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:25:20,446 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:25:28,393 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-11-13 15:25:35,150 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment
+2017-11-13 15:25:35,151 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests install
+2017-11-13 15:26:36,060 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:26:36,062 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:26:36,064 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:26:36,065 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:27:15,184 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:27:15,187 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:27:15,192 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:27:15,196 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:27:45,559 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:27:45,561 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:27:45,564 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:27:45,573 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:29:00,094 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:29:00,097 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:29:00,099 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:29:00,101 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:29:43,981 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:29:43,984 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:29:43,986 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:29:43,989 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:30:00,432 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:30:00,434 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:30:00,435 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:30:00,437 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:30:31,159 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:30:31,161 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:30:31,164 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:30:31,169 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:30:48,195 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:30:48,197 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:30:48,199 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:30:48,201 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:30:53,057 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:30:53,059 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:30:53,061 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:30:53,063 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:31:27,167 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:31:27,169 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:31:27,171 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:31:27,173 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:32:12,585 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:32:12,588 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:32:12,590 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:32:12,592 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:32:19,191 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:32:19,193 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:32:19,195 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:32:19,198 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:32:34,752 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:32:34,755 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:32:34,757 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:32:34,759 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:33:35,052 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:33:35,057 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:33:35,058 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:33:35,061 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:33:39,105 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:33:39,107 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:33:39,111 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:33:39,112 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:33:52,773 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:33:52,775 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:33:52,776 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:33:52,779 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:35:24,901 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:35:24,903 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:35:24,905 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:35:24,907 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:35:42,684 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:35:42,686 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:35:42,687 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:35:42,689 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:35:51,668 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:35:51,670 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:35:51,672 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:35:51,674 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:36:10,562 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:36:10,564 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:36:10,565 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:36:10,568 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:36:25,108 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:36:25,112 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:36:25,114 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:36:25,116 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:36:39,378 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:36:39,380 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:36:39,385 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:36:39,386 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:36:43,422 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:36:43,424 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:36:43,426 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:36:43,428 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:37:42,221 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:37:42,223 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:37:42,225 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:37:42,227 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:37:53,723 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:37:53,726 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:37:53,730 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:37:53,732 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:38:13,881 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-11-13 15:38:20,372 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment
+2017-11-13 15:38:20,373 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests install
+2017-11-13 15:41:43,695 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:41:43,697 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:41:43,699 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:41:43,701 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:44:23,951 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:44:23,953 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:44:23,955 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:44:23,956 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:48:33,347 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:48:33,350 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-13 15:48:33,352 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-13 15:48:33,354 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-13 15:49:33,451 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-11-13 15:49:39,949 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment
+2017-11-13 15:49:39,950 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests install
+2017-11-27 14:07:48,479 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 14:07:48,553 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/main/resources
+2017-11-27 14:07:48,564 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 14:07:48,571 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joaocfb/prova1/PP1-02-Prova-FloorCeilBinarySearch-environment/src/test/resources
+2017-11-27 14:10:17,645 [Worker-22] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration FloorCeilBinarySearch references non-existing project PP1-02-Prova-FloorCeilBinarySearch-environment.
+org.eclipse.core.runtime.CoreException: Launch configuration FloorCeilBinarySearch references non-existing project PP1-02-Prova-FloorCeilBinarySearch-environment.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-11-27 14:10:17,655 [Worker-22] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration FloorCeilBinarySearch references non-existing project PP1-02-Prova-FloorCeilBinarySearch-environment.
+org.eclipse.core.runtime.CoreException: Launch configuration FloorCeilBinarySearch references non-existing project PP1-02-Prova-FloorCeilBinarySearch-environment.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2017-11-27 14:10:17,670 [Worker-22] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration FloorCeilBinarySearch references non-existing project PP1-02-Prova-FloorCeilBinarySearch-environment.
+org.eclipse.core.runtime.CoreException: Launch configuration FloorCeilBinarySearch references non-existing project PP1-02-Prova-FloorCeilBinarySearch-environment.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2161) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
